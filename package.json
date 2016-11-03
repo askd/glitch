@@ -1,7 +1,7 @@
 {
   "name": "glitch",
   "description": "Custom element creating a glitch effect",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Anna Selezniova",
   "scripts": {
     "demo": "node devServer.js"
