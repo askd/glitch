@@ -1,5 +1,5 @@
 {
-  "name": "glitch",
+  "name": "img-glitch",
   "description": "Custom element creating a glitch effect",
   "version": "0.0.0",
   "author": "Anna Selezniova",
@@ -10,6 +10,10 @@
     "html templates",
     "custom elements",
     "glitch"
+  ],
+  "ignore": [
+    "node_modules",
+    "bower_components"
   ],
   "main": [
     "src/img-glitch.html"

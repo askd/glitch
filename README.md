@@ -11,7 +11,7 @@ bower install img-glitch
 ## Usage
 
 ```html
-<img-glitch src="awesome.jpg"></x-glitch>
+<img-glitch src="awesome.jpg"></img-glitch>
 ```
 
 ## Demo

@@ -3,6 +3,9 @@
   "description": "Custom element creating a glitch effect",
   "version": "0.0.0",
   "author": "Anna Selezniova",
+  "scripts": {
+    "demo": "node devServer.js"
+  },
   "dependencies": {},
   "devDependencies": {
     "bower": "~1.7.9",
