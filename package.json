@@ -1,0 +1,11 @@
+{
+  "name": "glitch",
+  "description": "Custom element creating a glitch effect",
+  "version": "0.0.0",
+  "author": "Anna Selezniova",
+  "dependencies": {},
+  "devDependencies": {
+    "bower": "~1.7.9",
+    "express": "^4.14.0"
+  }
+}

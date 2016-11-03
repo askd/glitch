@@ -1,0 +1,20 @@
+{
+  "name": "glitch",
+  "description": "Custom element creating a glitch effect",
+  "version": "0.0.0",
+  "author": "Anna Selezniova",
+  "keywords": [
+    "web components",
+    "web-components",
+    "shadow dom",
+    "html templates",
+    "custom elements",
+    "glitch"
+  ],
+  "main": [
+    "src/img-glitch.html"
+  ],
+  "dependencies": {
+    "webcomponentsjs": "^0.7.23"
+  }
+}
